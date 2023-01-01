@@ -1,0 +1,8 @@
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\bin\Debug\Hello.exe.config
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\bin\Debug\Hello.exe
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\bin\Debug\Hello.pdb
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\obj\Debug\Hello.csproj.AssemblyReference.cache
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\obj\Debug\Hello.csproj.CoreCompileInputs.cache
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\obj\Debug\Hello.exe
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\obj\Debug\Hello.pdb
+C:\Users\hassa\OneDrive\Desktop\C#\Hello\Hello\obj\Debug\Hello.csproj.SuggestedBindingRedirects.cache
